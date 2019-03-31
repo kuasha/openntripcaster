@@ -1,0 +1,45 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "",
+      "DisplayName": ""
+    },
+    "ClosedComment": "",
+    "ClosedDate": null,
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "To be able to develop this software, we need a ntrip-client and a ntrip-server (sending test-data) to actually test what we are devloping. Any help here would be awesome.",
+    "LastUpdatedDate": "2015-10-05T20:23:46.297-07:00",
+    "PlannedForRelease": "",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "High",
+      "Severity": 150,
+      "Id": 3
+    },
+    "ProjectName": "openntripcaster",
+    "ReportedDate": "2015-02-13T15:53:59.52-08:00",
+    "Status": {
+      "Name": "Proposed",
+      "Id": 1
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "Test-Suite",
+    "Type": {
+      "Name": "Task",
+      "Id": 2
+    },
+    "VoteCount": 1,
+    "Id": 7955
+  },
+  "FileAttachments": [],
+  "Comments": [
+    {
+      "Message": "Does this caster output CMR+? I have everything you need to do the testing. Let me know.",
+      "PostedDate": "2015-10-05T20:23:46.297-07:00",
+      "Id": -2147483648
+    }
+  ]
+}
